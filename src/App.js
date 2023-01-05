@@ -10,8 +10,7 @@ class App extends Component {
         <MovieList list="My List" btnName="Remove" listType="mylist"/>
         <MovieList list="Recommendation List" btnName="Add" listType="recommendations"/>
         <Footer/>
-        <div>commit 1</div>
-        <div>commit 2</div>
+        <div>commit 3</div>
       </div>
     );
   }
