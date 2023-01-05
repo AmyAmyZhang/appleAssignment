@@ -26,7 +26,6 @@ class MovieList extends React.Component {
                     })
                 } 
                 </ul>
-                <div>commit 1</div>
             </div>
         )
     }
