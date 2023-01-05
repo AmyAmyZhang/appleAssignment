@@ -8,6 +8,7 @@ class App extends Component {
     return (
       <div className="App">
         <MovieList list="My List" btnName="Remove" listType="mylist"/>
+        <MovieList list="My List" btnName="Remove" listType="mylist"/>
         <MovieList list="Recommendation List" btnName="Add" listType="recommendations"/>
         <Footer/>
         <div>commit 3</div>
